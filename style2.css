@@ -1,0 +1,280 @@
+.Rectangle-2331 {
+   
+    height: 50px;
+    margin: 0 0 37px;
+    padding: 15px 101px 13px 102px;
+    background-color: #ce0505;
+  }
+  .Breakfast-Places-in-Mumbai {
+    width: 512px;
+    height: 51px;
+    margin: 37px 25px 27px 113px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .Rectangle-5 {
+    width: 260px;
+    height: 682px;
+    margin: 27px 45px 8px 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+  }
+ .one{
+  width: 100%;
+  height: 1300px;
+ 
+ }
+ .two{
+  height: 100%;
+    width: 20%;
+    display: inline-block;
+   
+    margin-left: 80px;
+   
+ }
+ .three{
+  width: 65%;
+  height: 100%;
+  display: inline-block;
+ 
+  margin-left: 30px;
+  
+  vertical-align: bottom;
+ }
+ .four{
+  width: 100%;
+  height: 20%;
+  box-shadow: 3px 3px 3px 3px whitesmoke;
+  margin-bottom: 5px;
+  margin-bottom: 30px;
+ padding: 7px;
+}
+.The-Big-Chill-Cakery {
+  width: 298px;
+  height: 43px;
+  margin: 14px 267.4px 5px 41px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: darkblue;
+}
+.FORT {
+  width: 39px;
+  height: 23px;
+  margin: 5px 521.4px 5px 46px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+  width: 365px;
+  height: 23px;
+  margin: 5px 19.4px 38px 46px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+}
+.Path-6195 {
+  width: 450px;
+  height: 0;
+  margin: 31px 0 0;
+  border: solid 1px #dedfe5;
+  margin-left: 25px;
+}
+.CUISINES-COST-FOR-TWO {
+  width: 140px;
+  height: 118px;
+ 
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+  margin-left: 40px;
+  margin-right: 190px;
+  padding-left:20px;
+}
+.Bakery-700 {
+  width: 251px;
+  height: 69px;
+  margin: 26px 294.4px 0 61px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #989a9e;
+  float:left
+ 
+}
+.select{
+  font-size: larger;
+  width: -webkit-fill-available;
+  margin-right: 20px;
+}
+.div{
+  width: 60%;
+  height: 100%;
+  display: inline-block;
+  vertical-align: bottom;
+  margin:20px
+}
+.img{
+  width: 35%;
+  height: 100%;
+  display: inline-block;
+
+ 
+}
+.img1{
+  align-items: center;
+  width: 220px;
+  padding: 50px 40px;
+  border-radius: 80px;
+  
+}
+.bot{
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  box-shadow:  1px 1px 1px 1px whitesmoke;
+}
+.top1{
+  width: 100%;
+  height: 150px;
+  box-shadow: 2px 2px 2px 2px whitesmoke;
+}
+.top2{
+  width: 100%;
+    height: 200px;
+    box-shadow: 2px 2px 2px 2px whitesmoke;
+}
+.top3{
+  width: 100%;
+    height: 250px;
+    box-shadow: 2px 2px 2px 2px whitesmoke;
+}
+.top4{
+  width: 100%;
+  height: 300px;
+  box-shadow: 2px 2px 2px 2px whitesmoke;
+}
+.top5{
+  width: 100%;
+    height: 330px;
+    box-shadow: 2px 2px 2px 2px whitesmoke;
+}
+.ex1{
+  color:rgb(8, 155, 240);
+  font-size: larger;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: 20px;
+  padding: 10px;
+}
+.ex3{
+margin-left: 25px;
+padding: 2px;
+
+}
+.ex2{
+  margin-left: 25px;
+ padding: 7px;
+}
+.logo{
+  background: whitesmoke;
+  width: 50px;
+  height: 40px;
+  border-radius: 50%;
+  /* align-items: center; */
+  font-size: x-large;
+  font-family: auto;
+  color: brown;
+  font-style: normal;
+  padding-left: 20px;
+  display: inline-block;
+  padding-top: 8px;
+  font-weight: bold;
+  
+}
+.logo2{
+  float: right;
+  color: white;
+  padding-left: 15px;
+  padding-top: 6px;
+}
+.logo3{
+  float: right;
+  color: white;
+  border-style: solid;
+  padding: 7px;
+  padding-top: 5px;
+}
+.page-container{
+  text-align: center;
+}
+.page{
+  display: inline-block;
+    width: 15px;
+    /* border: solid 1px black; */
+    box-shadow: 1px 1px 1px 1px #bfb7b7;
+    margin: 15px;
+    margin-top: 30px;
+    font-size: larger;
+    font-weight: bold;
+}
+.ex4{
+  font-size: larger;
+  font-family: fangsong;
+  padding-left: 40px;
+}
+.ex5{
+  margin-left: 25px;
+  padding: 7px;
+  line-height: 2;
+}
+.foot{
+      /* width: 50px; */
+    /* margin-left: 450px; */
+    padding-top: 80px;
+    font-size: larger;
+    font-family: none;
+    font-weight: bold;
+    background-color: #df4b4b;
+    padding: 50px;
+    padding-left: 410px;
+    /* height: min-content; */
+    margin-top: 30px;
+}
